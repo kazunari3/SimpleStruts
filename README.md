@@ -2,7 +2,7 @@
 
 *open URL `http://localhost:8080/SimpleStruts/index.jsp`
 
-![代替テキスト](https://github.com/kazunari3/chap10/blob/master/index.png "画像タイトル")
+![代替テキスト](https://github.com/kazunari3/SimpleStruts/blob/master/index.png "画像タイトル")
 
 Eclipse Java EE IDE for Web Developers.
 
